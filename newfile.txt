@@ -1,0 +1,4 @@
+EXAMPLE BASH HISTORY
+wsl -d ITSC-3146
+
+code ~/.bash_history
